@@ -1,0 +1,49 @@
+
+<div class="container mt-5">
+  
+    <div class="card mb-3" style="max-width: 100%;">
+      <div class="row no-gutters">
+      <div class="col-md-4">
+        <img class="img-fluid" src="{{pokemon.imagen}}">
+      </div>
+      <div class="col-md-8">
+        <div class="card-body">
+          <div class="">
+            <h5 class="card-title">{{pokemon.id}}. {{pokemon.nombre}}</h5>
+          </div>
+          <div class="">
+            <p class="card-text">{{pokemon.descripcion}}</p>
+          </div>
+          <div class="">
+            <p class="card-text"><small class="text-muted">Tipo: {{pokemon.tipo}}</small></p>
+          </div>
+        </div>
+        <div class="card-body">
+          
+          <div class="">
+            <p class="card-text">HP: {{atribPokemon.HP}}</p>
+            <p class="card-text">Ataque: {{atribPokemon.Ataque}}</p>
+            <p class="card-text">Defensa: {{atribPokemon.Defensa}}</p>
+            <p class="card-text">Ataque Especial: {{atribPokemon.Ataque_Especial}}</p>
+            <p class="card-text">Def. Especial: {{atribPokemon.Defensa_Especial}}</p>
+            <p class="card-text">Velocidad: {{atribPokemon.Velocidad}}</p>
+            <p class="card-text">Altura: {{atribPokemon.Altura}}</p>
+            <p class="card-text">Peso: {{atribPokemon.Peso}}</p>
+            <p class="card-text">Huevo: {{atribPokemon.Huevo}}</p>
+            <p class="card-text" >Habilidades:</p>
+            <ul>
+  
+              <p class="card-text" *ngFor="let hab of atribPokemon.Habilidad ">
+                
+                <li> {{hab[0]}} </li>
+                
+              </p>
+              
+            </ul>
+          </div>
+         
+        </div>
+      </div>
+    </div>
+  </div>
+  

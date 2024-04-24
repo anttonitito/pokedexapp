@@ -1,0 +1,2383 @@
+{
+"atributos": [
+    {
+      "id": 1,
+      "HP": 45,
+      "Ataque": 49,
+      "Defensa": 49,
+      "AtaqueEspecial": 65,
+      "DefensaEspecial": 65,
+      "Velocidad": "45 km/h",
+      "Altura": "0.71 m",
+      "Peso": "6.9 kg",
+      "Huevo": ["Monstruo", "Planta"],
+      "Habilidad": [
+        ["Espesura", "false"],
+        ["Clorofila", "true"]
+      ]
+    },
+    {
+      "id": 2,
+      "HP": 60,
+      "Ataque": 62,
+      "Defensa": 63,
+      "AtaqueEspecial": 80,
+      "DefensaEspecial": 80,
+      "Velocidad": "60 km/h",
+      "Altura": "1.0 m",
+      "Peso": "13.0 kg",
+      "Huevo": ["Monstruo", "Planta"],
+      "Habilidad": [
+        ["Espesura", "false"],
+        ["Clorofila", "true"]
+      ]
+    },
+    {
+      "id": 3,
+      "HP": 80,
+      "Ataque": 82,
+      "Defensa": 83,
+      "AtaqueEspecial": 100,
+      "DefensaEspecial": 100,
+      "Velocidad": "80 km/h",
+      "Altura": "2.01 m",
+      "Peso": "100.0 kg",
+      "Huevo": ["Monstruo", "Planta"],
+      "Habilidad": [
+        ["Espesura", "false"],
+        ["Clorofila", "true"]
+      ]
+    },
+    {
+      "id": 4,
+      "HP": 80,
+      "Ataque": 100,
+      "Defensa": 123,
+      "AtaqueEspecial": 122,
+      "DefensaEspecial": 120,
+      "Velocidad": "80 km/h",
+      "Altura": "2.01 m",
+      "Peso": "100.5 kg",
+      "Huevo": ["Monstruo", "Planta"],
+      "Habilidad": [
+        ["Espesura", "false"],
+        ["Clorofila", "true"]
+      ]
+    },
+    {
+      "id": 5,
+      "HP": 39,
+      "Ataque": 52,
+      "Defensa": 43,
+      "AtaqueEspecial": 60,
+      "DefensaEspecial": 50,
+      "Velocidad": "65 km/h",
+      "Altura": "0.61 m",
+      "Peso": "9.0 kg",
+      "Huevo": ["Monstruo", "Agua 1"],
+      "Habilidad": [
+        ["Torrente", "false"],
+        ["Mar Llamas", "true"]
+      ]
+    },
+    {
+      "id": 6,
+      "HP": 58,
+      "Ataque": 64,
+      "Defensa": 58,
+      "AtaqueEspecial": 80,
+      "DefensaEspecial": 65,
+      "Velocidad": "80 km/h",
+      "Altura": "1.0 m",
+      "Peso": "22.5 kg",
+      "Huevo": ["Monstruo", "Agua 1"],
+      "Habilidad": [
+        ["Torrente", "false"],
+        ["Mar Llamas", "true"]
+      ]
+    },
+    {
+      "id": 7,
+      "HP": 78,
+      "Ataque": 84,
+      "Defensa": 78,
+      "AtaqueEspecial": 109,
+      "DefensaEspecial": 85,
+      "Velocidad": "100 km/h",
+      "Altura": "1.61 m",
+      "Peso": "85.5 kg",
+      "Huevo": ["Monstruo", "Agua 1"],
+      "Habilidad": [
+        ["Torrente", "false"],
+        ["Mar Llamas", "true"]
+      ]
+    },
+    {
+      "id": 8,
+      "HP": 78,
+      "Ataque": 130,
+      "Defensa": 111,
+      "AtaqueEspecial": 130,
+      "DefensaEspecial": 85,
+      "Velocidad": "100 km/h",
+      "Altura": "1.71 m",
+      "Peso": "90.5 kg",
+      "Huevo": ["Monstruo", "Agua 1"],
+      "Habilidad": [
+        ["Torrente", "false"],
+        ["Mar Llamas", "true"]
+      ]
+    },
+    {
+      "id": 9,
+      "HP": 44,
+      "Ataque": 48,
+      "Defensa": 65,
+      "AtaqueEspecial": 50,
+      "DefensaEspecial": 64,
+      "Velocidad": "43 km/h",
+      "Altura": "0.51 m",
+      "Peso": "6.9 kg",
+      "Huevo": ["Monstruo", "Volador"],
+      "Habilidad": [
+        ["Vitalidad", "false"],
+        ["Agallas", "true"]
+      ]
+    },
+    {
+      "id": 10,
+      "HP": 59,
+      "Ataque": 63,
+      "Defensa": 80,
+      "AtaqueEspecial": 65,
+      "DefensaEspecial": 80,
+      "Velocidad": "58 km/h",
+      "Altura": "1.01 m",
+      "Peso": "13.0 kg",
+      "Huevo": ["Monstruo", "Volador"],
+      "Habilidad": [
+        ["Vitalidad", "false"],
+        ["Agallas", "true"]
+      ]
+    },
+    {
+      "id": 11,
+      "HP": 79,
+      "Ataque": 83,
+      "Defensa": 100,
+      "AtaqueEspecial": 85,
+      "DefensaEspecial": 105,
+      "Velocidad": "78 km/h",
+      "Altura": "1.61 m",
+      "Peso": "90.0 kg",
+      "Huevo": ["Monstruo", "Volador"],
+      "Habilidad": [
+        ["Vitalidad", "false"],
+        ["Agallas", "true"]
+      ]
+    },
+    {
+      "id": 12,
+      "HP": 79,
+      "Ataque": 103,
+      "Defensa": 120,
+      "AtaqueEspecial": 135,
+      "DefensaEspecial": 115,
+      "Velocidad": "78 km/h",
+      "Altura": "1.71 m",
+      "Peso": "100.0 kg",
+      "Huevo": ["Monstruo", "Volador"],
+      "Habilidad": [
+        ["Vitalidad", "false"],
+        ["Agallas", "true"]
+      ]
+    },
+    {
+      "id": 13,
+      "HP": 45,
+      "Ataque": 30,
+      "Defensa": 35,
+      "AtaqueEspecial": 20,
+      "DefensaEspecial": 20,
+      "Velocidad": "45 km/h",
+      "Altura": "0.3 m",
+      "Peso": "3.5 kg",
+      "Huevo": ["Monstruo", "Volador"],
+      "Habilidad": [
+        ["Cabeza Roca", "false"],
+        ["Armadura Batalla", "true"]
+      ]
+    },
+    {
+      "id": 14,
+      "HP": 50,
+      "Ataque": 20,
+      "Defensa": 55,
+      "AtaqueEspecial": 25,
+      "DefensaEspecial": 25,
+      "Velocidad": "30 km/h",
+      "Altura": "0.4 m",
+      "Peso": "10.0 kg",
+      "Huevo": ["Monstruo", "Volador"],
+      "Habilidad": [
+        ["Cabeza Roca", "false"],
+        ["Armadura Batalla", "true"]
+      ]
+    },
+    {
+      "id": 15,
+      "HP": 60,
+      "Ataque": 45,
+      "Defensa": 50,
+      "AtaqueEspecial": 90,
+      "DefensaEspecial": 80,
+      "Velocidad": "70 km/h",
+      "Altura": "0.8 m",
+      "Peso": "32.0 kg",
+      "Huevo": ["Monstruo", "Volador"],
+      "Habilidad": [
+        ["Cabeza Roca", "false"],
+        ["Armadura Batalla", "true"]
+      ]
+    },
+    {
+      "id": 16,
+      "HP": 40,
+      "Ataque": 35,
+      "Defensa": 30,
+      "AtaqueEspecial": 20,
+      "DefensaEspecial": 20,
+      "Velocidad": "50 km/h",
+      "Altura": "0.3 m",
+      "Peso": "2.9 kg",
+      "Huevo": ["Monstruo", "Volador"],
+      "Habilidad": [
+        ["Velo Arena", "false"],
+        ["Rizo Defensa", "true"]
+      ]
+    },
+    {
+      "id": 17,
+      "HP": 45,
+      "Ataque": 25,
+      "Defensa": 50,
+      "AtaqueEspecial": 25,
+      "DefensaEspecial": 25,
+      "Velocidad": "35 km/h",
+      "Altura": "0.4 m",
+      "Peso": "9.9 kg",
+      "Huevo": ["Monstruo", "Volador"],
+      "Habilidad": [
+        ["Velo Arena", "false"],
+        ["Rizo Defensa", "true"]
+      ]
+    },
+    {
+      "id": 18,
+      "HP": 60,
+      "Ataque": 45,
+      "Defensa": 70,
+      "AtaqueEspecial": 45,
+      "DefensaEspecial": 90,
+      "Velocidad": "45 km/h",
+      "Altura": "1.0 m",
+      "Peso": "32.0 kg",
+      "Huevo": ["Monstruo", "Volador"],
+      "Habilidad": [
+        ["Velo Arena", "false"],
+        ["Rizo Defensa", "true"]
+      ]
+    },
+    {
+      "id": 19,
+      "HP": 40,
+      "Ataque": 35,
+      "Defensa": 30,
+      "AtaqueEspecial": 20,
+      "DefensaEspecial": 20,
+      "Velocidad": "56 km/h",
+      "Altura": "0.3 m",
+      "Peso": "1.8 kg",
+      "Huevo": ["Monstruo", "Campo"],
+      "Habilidad": [
+        ["Ojo Compuesto", "false"],
+        ["Fuga", "true"]
+      ]
+    },
+    {
+      "id": 20,
+      "HP": 45,
+      "Ataque": 30,
+      "Defensa": 35,
+      "AtaqueEspecial": 20,
+      "DefensaEspecial": 20,
+      "Velocidad": "72 km/h",
+      "Altura": "0.4 m",
+      "Peso": "3.5 kg",
+      "Huevo": ["Monstruo", "Campo"],
+      "Habilidad": [
+        ["Ojo Compuesto", "false"],
+        ["Fuga", "true"]
+      ]
+    },
+    {
+      "id": 21,
+      "HP": 65,
+      "Ataque": 80,
+      "Defensa": 40,
+      "AtaqueEspecial": 45,
+      "DefensaEspecial": 80,
+      "Velocidad": "40 km/h",
+      "Altura": "0.6 m",
+      "Peso": "20.0 kg",
+      "Huevo": ["Monstruo", "Campo"],
+      "Habilidad": [
+        ["Ojo Compuesto", "false"],
+        ["Fuga", "true"]
+      ]
+    },
+    {
+      "id": 22,
+      "HP": 65,
+      "Ataque": 80,
+      "Defensa": 40,
+      "AtaqueEspecial": 45,
+      "DefensaEspecial": 80,
+      "Velocidad": "48 km/h",
+      "Altura": "1.0 m",
+      "Peso": "13.0 kg",
+      "Huevo": ["Monstruo", "Campo"],
+      "Habilidad": [
+        ["Ojo Compuesto", "false"],
+        ["Fuga", "true"]
+      ]
+    },
+    {
+      "id": 23,
+      "HP": 40,
+      "Ataque": 45,
+      "Defensa": 35,
+      "AtaqueEspecial": 40,
+      "DefensaEspecial": 40,
+      "Velocidad": "35 km/h",
+      "Altura": "0.3 m",
+      "Peso": "6.5 kg",
+      "Huevo": ["Monstruo", "Dragón"],
+      "Habilidad": [
+        ["Corrosión", "false"],
+        ["Corte Fuerte", "true"]
+      ]
+    },
+    {
+      "id": 24,
+      "HP": 35,
+      "Ataque": 60,
+      "Defensa": 44,
+      "AtaqueEspecial": 40,
+      "DefensaEspecial": 54,
+      "Velocidad": "70 km/h",
+      "Altura": "0.7 m",
+      "Peso": "65.0 kg",
+      "Huevo": ["Monstruo", "Dragón"],
+      "Habilidad": [
+        ["Corrosión", "false"],
+        ["Corte Fuerte", "true"]
+      ]
+    },
+    {
+      "id": 25,
+      "HP": 60,
+      "Ataque": 85,
+      "Defensa": 69,
+      "AtaqueEspecial": 65,
+      "DefensaEspecial": 79,
+      "Velocidad": "100 km/h",
+      "Altura": "1.0 m",
+      "Peso": "18.5 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Electricidad Estática", "false"],
+        ["Pararrayos", "true"]
+      ]
+    },
+    {
+      "id": 26,
+      "HP": 50,
+      "Ataque": 75,
+      "Defensa": 85,
+      "AtaqueEspecial": 20,
+      "DefensaEspecial": 30,
+      "Velocidad": "105 km/h",
+      "Altura": "0.8 m",
+      "Peso": "30.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Electricidad Estática", "false"],
+        ["Pararrayos", "true"]
+      ]
+    },
+    {
+      "id": 27,
+      "HP": 70,
+      "Ataque": 65,
+      "Defensa": 65,
+      "AtaqueEspecial": 40,
+      "DefensaEspecial": 40,
+      "Velocidad": "120 km/h",
+      "Altura": "1.2 m",
+      "Peso": "12.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Electricidad Estática", "false"],
+        ["Pararrayos", "true"]
+      ]
+    },
+    {
+      "id": 28,
+      "HP": 90,
+      "Ataque": 85,
+      "Defensa": 100,
+      "AtaqueEspecial": 95,
+      "DefensaEspecial": 125,
+      "Velocidad": "105 km/h",
+      "Altura": "1.6 m",
+      "Peso": "20.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Electricidad Estática", "false"],
+        ["Pararrayos", "true"]
+      ]
+    },
+    {
+      "id": 29,
+      "HP": 41,
+      "Ataque": 50,
+      "Defensa": 37,
+      "AtaqueEspecial": 50,
+      "DefensaEspecial": 37,
+      "Velocidad": "56 km/h",
+      "Altura": "0.5 m",
+      "Peso": "8.5 kg",
+      "Huevo": ["Monstruo", "Volador"],
+      "Habilidad": [
+        ["Velo Arena", "false"],
+        ["Ojo Compuesto", "true"]
+      ]
+    },
+    {
+      "id": 30,
+      "HP": 61,
+      "Ataque": 75,
+      "Defensa": 57,
+      "AtaqueEspecial": 75,
+      "DefensaEspecial": 50,
+      "Velocidad": "71 km/h",
+      "Altura": "0.8 m",
+      "Peso": "19.0 kg",
+      "Huevo": ["Monstruo", "Volador"],
+      "Habilidad": [
+        ["Velo Arena", "false"],
+        ["Ojo Compuesto", "true"]
+      ]
+    },
+    {
+      "id": 31,
+      "HP": 91,
+      "Ataque": 95,
+      "Defensa": 87,
+      "AtaqueEspecial": 85,
+      "DefensaEspecial": 75,
+      "Velocidad": "101 km/h",
+      "Altura": "1.5 m",
+      "Peso": "62.0 kg",
+      "Huevo": ["Monstruo", "Volador"],
+      "Habilidad": [
+        ["Velo Arena", "false"],
+        ["Ojo Compuesto", "true"]
+      ]
+    },
+    {
+      "id": 32,
+      "HP": 106,
+      "Ataque": 130,
+      "Defensa": 120,
+      "AtaqueEspecial": 130,
+      "DefensaEspecial": 90,
+      "Velocidad": "121 km/h",
+      "Altura": "1.7 m",
+      "Peso": "120.0 kg",
+      "Huevo": ["Monstruo", "Volador"],
+      "Habilidad": [
+        ["Velo Arena", "false"],
+        ["Ojo Compuesto", "true"]
+      ]
+    },
+    {
+      "id": 33,
+      "HP": 35,
+      "Ataque": 70,
+      "Defensa": 55,
+      "AtaqueEspecial": 45,
+      "DefensaEspecial": 55,
+      "Velocidad": "72 km/h",
+      "Altura": "0.3 m",
+      "Peso": "7.5 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Cura Natural", "false"],
+        ["Clorofila", "true"]
+      ]
+    },
+    {
+      "id": 34,
+      "HP": 60,
+      "Ataque": 95,
+      "Defensa": 80,
+      "AtaqueEspecial": 60,
+      "DefensaEspecial": 80,
+      "Velocidad": "121 km/h",
+      "Altura": "0.4 m",
+      "Peso": "20.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Cura Natural", "false"],
+        ["Clorofila", "true"]
+      ]
+    },
+    {
+      "id": 35,
+      "HP": 85,
+      "Ataque": 55,
+      "Defensa": 50,
+      "AtaqueEspecial": 45,
+      "DefensaEspecial": 65,
+      "Velocidad": "110 km/h",
+      "Altura": "0.8 m",
+      "Peso": "20.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Cura Natural", "false"],
+        ["Clorofila", "true"]
+      ]
+    },
+    {
+      "id": 36,
+      "HP": 35,
+      "Ataque": 80,
+      "Defensa": 50,
+      "AtaqueEspecial": 35,
+      "DefensaEspecial": 35,
+      "Velocidad": "72 km/h",
+      "Altura": "0.3 m",
+      "Peso": "6.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Fuga", "false"]
+      ]
+    },
+    {
+      "id": 37,
+      "HP": 60,
+      "Ataque": 115,
+      "Defensa": 55,
+      "AtaqueEspecial": 25,
+      "DefensaEspecial": 35,
+      "Velocidad": "101 km/h",
+      "Altura": "1.0 m",
+      "Peso": "29.5 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Fuga", "false"]
+      ]
+    },
+    {
+      "id": 38,
+      "HP": 35,
+      "Ataque": 40,
+      "Defensa": 100,
+      "AtaqueEspecial": 90,
+      "DefensaEspecial": 55,
+      "Velocidad": "76 km/h",
+      "Altura": "0.6 m",
+      "Peso": "30.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Bucle Arena", "false"]
+      ]
+    },
+    {
+      "id": 39,
+      "HP": 60,
+      "Ataque": 55,
+      "Defensa": 145,
+      "AtaqueEspecial": 75,
+      "DefensaEspecial": 150,
+      "Velocidad": "56 km/h",
+      "Altura": "1.2 m",
+      "Peso": "120.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Bucle Arena", "false"]
+      ]
+    },
+    {
+      "id": 40,
+      "HP": 10,
+      "Ataque": 55,
+      "Defensa": 25,
+      "AtaqueEspecial": 35,
+      "DefensaEspecial": 45,
+      "Velocidad": "51 km/h",
+      "Altura": "0.3 m",
+      "Peso": "2.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Mudar", "false"]
+      ]
+    },
+    {
+      "id": 41,
+      "HP": 35,
+      "Ataque": 80,
+      "Defensa": 50,
+      "AtaqueEspecial": 50,
+      "DefensaEspecial": 70,
+      "Velocidad": "120 km/h",
+      "Altura": "0.6 m",
+      "Peso": "9.9 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Mudar", "false"]
+      ]
+    },
+    {
+      "id": 42,
+      "HP": 60,
+      "Ataque": 115,
+      "Defensa": 55,
+      "AtaqueEspecial": 115,
+      "DefensaEspecial": 70,
+      "Velocidad": "105 km/h",
+      "Altura": "1.0 m",
+      "Peso": "19.5 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Mudar", "false"]
+      ]
+    },
+    {
+      "id": 43,
+      "HP": 10,
+      "Ataque": 55,
+      "Defensa": 25,
+      "AtaqueEspecial": 35,
+      "DefensaEspecial": 45,
+      "Velocidad": "51 km/h",
+      "Altura": "0.3 m",
+      "Peso": "2.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Mudar", "false"]
+      ]
+    },
+    {
+      "id": 44,
+      "HP": 35,
+      "Ataque": 80,
+      "Defensa": 50,
+      "AtaqueEspecial": 50,
+      "DefensaEspecial": 70,
+      "Velocidad": "120 km/h",
+      "Altura": "0.6 m",
+      "Peso": "9.9 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Mudar", "false"]
+      ]
+    },
+    {
+      "id": 45,
+      "HP": 60,
+      "Ataque": 115,
+      "Defensa": 55,
+      "AtaqueEspecial": 115,
+      "DefensaEspecial": 70,
+      "Velocidad": "105 km/h",
+      "Altura": "1.0 m",
+      "Peso": "19.5 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Mudar", "false"]
+      ]
+    },
+    {
+      "id": 46,
+      "HP": 50,
+      "Ataque": 95,
+      "Defensa": 180,
+      "AtaqueEspecial": 85,
+      "DefensaEspecial": 45,
+      "Velocidad": "35 km/h",
+      "Altura": "1.2 m",
+      "Peso": "70.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Cabeza Roca", "false"],
+        ["Caparazón", "true"]
+      ]
+    },
+    {
+      "id": 47,
+      "HP": 30,
+      "Ataque": 35,
+      "Defensa": 30,
+      "AtaqueEspecial": 100,
+      "DefensaEspecial": 35,
+      "Velocidad": "70 km/h",
+      "Altura": "0.3 m",
+      "Peso": "1.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Absorber", "false"],
+        ["Potencia Solar", "true"]
+      ]
+    },
+    {
+      "id": 48,
+      "HP": 55,
+      "Ataque": 50,
+      "Defensa": 45,
+      "AtaqueEspecial": 135,
+      "DefensaEspecial": 85,
+      "Velocidad": "95 km/h",
+      "Altura": "0.5 m",
+      "Peso": "8.5 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Absorber", "false"],
+        ["Potencia Solar", "true"]
+      ]
+    },
+    {
+      "id": 49,
+      "HP": 40,
+      "Ataque": 60,
+      "Defensa": 40,
+      "AtaqueEspecial": 40,
+      "DefensaEspecial": 40,
+      "Velocidad": "70 km/h",
+      "Altura": "0.6 m",
+      "Peso": "5.4 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Clorofila", "false"],
+        ["Foco Interno", "true"]
+      ]
+    },
+    {
+      "id": 50,
+      "HP": 65,
+      "Ataque": 90,
+      "Defensa": 65,
+      "AtaqueEspecial": 61,
+      "DefensaEspecial": 61,
+      "Velocidad": "100 km/h",
+      "Altura": "0.9 m",
+      "Peso": "29.5 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Clorofila", "false"],
+        ["Foco Interno", "true"]
+      ]
+    },
+    {
+      "id": 51,
+      "HP": 80,
+      "Ataque": 85,
+      "Defensa": 95,
+      "AtaqueEspecial": 30,
+      "DefensaEspecial": 30,
+      "Velocidad": "70 km/h",
+      "Altura": "1.2 m",
+      "Peso": "30.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Clorofila", "false"],
+        ["Foco Interno", "true"]
+      ]
+    },
+    {
+      "id": 52,
+      "HP": 30,
+      "Ataque": 65,
+      "Defensa": 100,
+      "AtaqueEspecial": 45,
+      "DefensaEspecial": 25,
+      "Velocidad": "40 km/h",
+      "Altura": "0.4 m",
+      "Peso": "12.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Clorofila", "false"],
+        ["Cosecha", "true"]
+      ]
+    },
+    {
+      "id": 53,
+      "HP": 50,
+      "Ataque": 95,
+      "Defensa": 180,
+      "AtaqueEspecial": 85,
+      "DefensaEspecial": 45,
+      "Velocidad": "20 km/h",
+      "Altura": "1.0 m",
+      "Peso": "100.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Clorofila", "false"],
+        ["Cosecha", "true"]
+      ]
+    },
+    {
+      "id": 54,
+      "HP": 30,
+      "Ataque": 65,
+      "Defensa": 100,
+      "AtaqueEspecial": 45,
+      "DefensaEspecial": 25,
+      "Velocidad": "40 km/h",
+      "Altura": "0.4 m",
+      "Peso": "12.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Clorofila", "false"],
+        ["Cosecha", "true"]
+      ]
+    },
+    {
+      "id": 55,
+      "HP": 50,
+      "Ataque": 95,
+      "Defensa": 180,
+      "AtaqueEspecial": 85,
+      "DefensaEspecial": 45,
+      "Velocidad": "20 km/h",
+      "Altura": "1.0 m",
+      "Peso": "100.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Clorofila", "false"],
+        ["Cosecha", "true"]
+      ]
+    },
+    {
+      "id": 56,
+      "HP": 50,
+      "Ataque": 85,
+      "Defensa": 55,
+      "AtaqueEspecial": 65,
+      "DefensaEspecial": 65,
+      "Velocidad": "60 km/h",
+      "Altura": "1.0 m",
+      "Peso": "19.5 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Aclimatación", "false"],
+        ["Adaptable", "true"]
+      ]
+    },
+    {
+      "id": 57,
+      "HP": 65,
+      "Ataque": 105,
+      "Defensa": 60,
+      "AtaqueEspecial": 60,
+      "DefensaEspecial": 70,
+      "Velocidad": "90 km/h",
+      "Altura": "1.3 m",
+      "Peso": "70.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Aclimatación", "false"],
+        ["Adaptable", "true"]
+      ]
+    },
+    {
+      "id": 58,
+      "HP": 80,
+      "Ataque": 135,
+      "Defensa": 85,
+      "AtaqueEspecial": 70,
+      "DefensaEspecial": 95,
+      "Velocidad": "110 km/h",
+      "Altura": "1.6 m",
+      "Peso": "130.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Aclimatación", "false"],
+        ["Adaptable", "true"]
+      ]
+    },
+    {
+      "id": 59,
+      "HP": 40,
+      "Ataque": 70,
+      "Defensa": 45,
+      "AtaqueEspecial": 85,
+      "DefensaEspecial": 45,
+      "Velocidad": "75 km/h",
+      "Altura": "0.9 m",
+      "Peso": "19.5 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Aclimatación", "false"],
+        ["Reducción", "true"]
+      ]
+    },
+    {
+      "id": 60,
+      "HP": 65,
+      "Ataque": 105,
+      "Defensa": 60,
+      "AtaqueEspecial": 120,
+      "DefensaEspecial": 70,
+      "Velocidad": "100 km/h",
+      "Altura": "1.3 m",
+      "Peso": "80.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Aclimatación", "false"],
+        ["Reducción", "true"]
+      ]
+    },
+    {
+      "id": 61,
+      "HP": 90,
+      "Ataque": 140,
+      "Defensa": 75,
+      "AtaqueEspecial": 155,
+      "DefensaEspecial": 90,
+      "Velocidad": "120 km/h",
+      "Altura": "1.8 m",
+      "Peso": "105.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Aclimatación", "false"],
+        ["Reducción", "true"]
+      ]
+    },
+    {
+      "id": 62,
+      "HP": 40,
+      "Ataque": 45,
+      "Defensa": 35,
+      "AtaqueEspecial": 30,
+      "DefensaEspecial": 40,
+      "Velocidad": "41 km/h",
+      "Altura": "0.4 m",
+      "Peso": "12.4 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Regeneración", "false"]
+      ]
+    },
+    {
+      "id": 63,
+      "HP": 65,
+      "Ataque": 70,
+      "Defensa": 60,
+      "AtaqueEspecial": 65,
+      "DefensaEspecial": 75,
+      "Velocidad": "56 km/h",
+      "Altura": "1.0 m",
+      "Peso": "32.5 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Regeneración", "false"]
+      ]
+    },
+    {
+      "id": 64,
+      "HP": 90,
+      "Ataque": 110,
+      "Defensa": 80,
+      "AtaqueEspecial": 95,
+      "DefensaEspecial": 105,
+      "Velocidad": "71 km/h",
+      "Altura": "1.5 m",
+      "Peso": "56.5 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Regeneración", "false"]
+      ]
+    },
+    {
+      "id": 65,
+      "HP": 25,
+      "Ataque": 20,
+      "Defensa": 15,
+      "AtaqueEspecial": 105,
+      "DefensaEspecial": 55,
+      "Velocidad": "80 km/h",
+      "Altura": "0.4 m",
+      "Peso": "1.5 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Espesura", "false"],
+        ["Clorofila", "true"]
+      ]
+    },
+    {
+      "id": 66,
+      "HP": 40,
+      "Ataque": 35,
+      "Defensa": 30,
+      "AtaqueEspecial": 120,
+      "DefensaEspecial": 70,
+      "Velocidad": "100 km/h",
+      "Altura": "0.8 m",
+      "Peso": "10.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Espesura", "false"],
+        ["Clorofila", "true"]
+      ]
+    },
+    {
+      "id": 67,
+      "HP": 55,
+      "Ataque": 50,
+      "Defensa": 45,
+      "AtaqueEspecial": 135,
+      "DefensaEspecial": 95,
+      "Velocidad": "120 km/h",
+      "Altura": "1.2 m",
+      "Peso": "25.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Espesura", "false"],
+        ["Clorofila", "true"]
+      ]
+    },
+    {
+      "id": 68,
+      "HP": 55,
+      "Ataque": 50,
+      "Defensa": 65,
+      "AtaqueEspecial": 175,
+      "DefensaEspecial": 95,
+      "Velocidad": "120 km/h",
+      "Altura": "1.4 m",
+      "Peso": "15.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Espesura", "false"],
+        ["Clorofila", "true"]
+      ]
+    },
+    {
+      "id": 69,
+      "HP": 70,
+      "Ataque": 80,
+      "Defensa": 50,
+      "AtaqueEspecial": 35,
+      "DefensaEspecial": 35,
+      "Velocidad": "110 km/h",
+      "Altura": "0.4 m",
+      "Peso": "6.4 kg",
+      "Huevo": ["Monstruo", "Agua 1"],
+      "Habilidad": [
+        ["Nado Rápido", "false"],
+        ["Expulsar", "true"]
+      ]
+    },
+    {
+      "id": 70,
+      "HP": 80,
+      "Ataque": 100,
+      "Defensa": 70,
+      "AtaqueEspecial": 50,
+      "DefensaEspecial": 60,
+      "Velocidad": "120 km/h",
+      "Altura": "1.0 m",
+      "Peso": "20.0 kg",
+      "Huevo": ["Monstruo", "Agua 1"],
+      "Habilidad": [
+        ["Nado Rápido", "false"],
+        ["Expulsar", "true"]
+      ]
+    },
+    {
+      "id": 71,
+      "HP": 90,
+      "Ataque": 130,
+      "Defensa": 80,
+      "AtaqueEspecial": 70,
+      "DefensaEspecial": 85,
+      "Velocidad": "121 km/h",
+      "Altura": "1.7 m",
+      "Peso": "60.0 kg",
+      "Huevo": ["Monstruo", "Agua 1"],
+      "Habilidad": [
+        ["Nado Rápido", "false"],
+        ["Expulsar", "true"]
+      ]
+    },
+    {
+      "id": 72,
+      "HP": 40,
+      "Ataque": 60,
+      "Defensa": 40,
+      "AtaqueEspecial": 40,
+      "DefensaEspecial": 40,
+      "Velocidad": "30 km/h",
+      "Altura": "0.4 m",
+      "Peso": "4.0 kg",
+      "Huevo": ["Monstruo", "Agua 1"],
+      "Habilidad": [
+        ["Torrente", "false"],
+        ["Potencia", "true"]
+      ]
+    },
+    {
+      "id": 73,
+      "HP": 65,
+      "Ataque": 90,
+      "Defensa": 65,
+      "AtaqueEspecial": 61,
+      "DefensaEspecial": 61,
+      "Velocidad": "65 km/h",
+      "Altura": "1.0 m",
+      "Peso": "25.0 kg",
+      "Huevo": ["Monstruo", "Agua 1"],
+      "Habilidad": [
+        ["Torrente", "false"],
+        ["Potencia", "true"]
+      ]
+    },
+    {
+      "id": 74,
+      "HP": 90,
+      "Ataque": 130,
+      "Defensa": 80,
+      "AtaqueEspecial": 85,
+      "DefensaEspecial": 85,
+      "Velocidad": "85 km/h",
+      "Altura": "1.7 m",
+      "Peso": "75.0 kg",
+      "Huevo": ["Monstruo", "Agua 1"],
+      "Habilidad": [
+        ["Torrente", "false"],
+        ["Potencia", "true"]
+      ]
+    },
+    {
+      "id": 75,
+      "HP": 25,
+      "Ataque": 35,
+      "Defensa": 70,
+      "AtaqueEspecial": 95,
+      "DefensaEspecial": 55,
+      "Velocidad": "40 km/h",
+      "Altura": "0.4 m",
+      "Peso": "4.0 kg",
+      "Huevo": ["Monstruo", "Agua 1"],
+      "Habilidad": [
+        ["Torrente", "false"],
+        ["Potencia", "true"]
+      ]
+    },
+    {
+      "id": 76,
+      "HP": 50,
+      "Ataque": 60,
+      "Defensa": 95,
+      "AtaqueEspecial": 120,
+      "DefensaEspecial": 70,
+      "Velocidad": "80 km/h",
+      "Altura": "1.0 m",
+      "Peso": "20.0 kg",
+      "Huevo": ["Monstruo", "Agua 1"],
+      "Habilidad": [
+        ["Torrente", "false"],
+        ["Potencia", "true"]
+      ]
+    },
+    {
+      "id": 77,
+      "HP": 80,
+      "Ataque": 110,
+      "Defensa": 130,
+      "AtaqueEspecial": 160,
+      "DefensaEspecial": 80,
+      "Velocidad": "121 km/h",
+      "Altura": "1.7 m",
+      "Peso": "95.0 kg",
+      "Huevo": ["Monstruo", "Agua 1"],
+      "Habilidad": [
+        ["Torrente", "false"],
+        ["Potencia", "true"]
+      ]
+    },
+    {
+      "id": 78,
+      "HP": 40,
+      "Ataque": 85,
+      "Defensa": 5,
+      "AtaqueEspecial": 65,
+      "DefensaEspecial": 30,
+      "Velocidad": "40 km/h",
+      "Altura": "0.8 m",
+      "Peso": "20.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Sincronía", "false"]
+      ]
+    },
+    {
+      "id": 79,
+      "HP": 55,
+      "Ataque": 130,
+      "Defensa": 75,
+      "AtaqueEspecial": 85,
+      "DefensaEspecial": 60,
+      "Velocidad": "55 km/h",
+      "Altura": "1.5 m",
+      "Peso": "55.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Sincronía", "false"]
+      ]
+    },
+    {
+      "id": 80,
+      "HP": 40,
+      "Ataque": 70,
+      "Defensa": 5,
+      "AtaqueEspecial": 95,
+      "DefensaEspecial": 55,
+      "Velocidad": "40 km/h",
+      "Altura": "0.8 m",
+      "Peso": "20.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Sincronía", "false"]
+      ]
+    },
+    {
+      "id": 81,
+      "HP": 65,
+      "Ataque": 105,
+      "Defensa": 40,
+      "AtaqueEspecial": 130,
+      "DefensaEspecial": 70,
+      "Velocidad": "80 km/h",
+      "Altura": "1.5 m",
+      "Peso": "55.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Sincronía", "false"]
+      ]
+    },
+    {
+      "id": 82,
+      "HP": 55,
+      "Ataque": 45,
+      "Defensa": 45,
+      "AtaqueEspecial": 25,
+      "DefensaEspecial": 25,
+      "Velocidad": "20 km/h",
+      "Altura": "0.8 m",
+      "Peso": "15.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Velo Arena", "false"],
+        ["Vista Lince", "true"]
+      ]
+    },
+    {
+      "id": 83,
+      "HP": 90,
+      "Ataque": 85,
+      "Defensa": 100,
+      "AtaqueEspecial": 95,
+      "DefensaEspecial": 125,
+      "Velocidad": "45 km/h",
+      "Altura": "1.6 m",
+      "Peso": "120.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Velo Arena", "false"],
+        ["Vista Lince", "true"]
+      ]
+    },
+    {
+      "id": 84,
+      "HP": 80,
+      "Ataque": 120,
+      "Defensa": 130,
+      "AtaqueEspecial": 55,
+      "DefensaEspecial": 65,
+      "Velocidad": "40 km/h",
+      "Altura": "2.0 m",
+      "Peso": "300.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Velo Arena", "false"],
+        ["Vista Lince", "true"]
+      ]
+    },
+    {
+      "id": 85,
+      "HP": 90,
+      "Ataque": 100,
+      "Defensa": 85,
+      "AtaqueEspecial": 125,
+      "DefensaEspecial": 90,
+      "Velocidad": "55 km/h",
+      "Altura": "1.2 m",
+      "Peso": "30.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Velo Arena", "false"],
+        ["Vista Lince", "true"]
+      ]
+    },
+    {
+      "id": 86,
+      "HP": 85,
+      "Ataque": 73,
+      "Defensa": 70,
+      "AtaqueEspecial": 73,
+      "DefensaEspecial": 115,
+      "Velocidad": "60 km/h",
+      "Altura": "1.5 m",
+      "Peso": "39.5 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Estruendo", "false"],
+        ["Insonorizar", "true"]
+      ]
+    },
+    {
+      "id": 87,
+      "HP": 30,
+      "Ataque": 105,
+      "Defensa": 90,
+      "AtaqueEspecial": 25,
+      "DefensaEspecial": 25,
+      "Velocidad": "110 km/h",
+      "Altura": "1.4 m",
+      "Peso": "85.2 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Fuga", "false"],
+        ["Corte Fuerte", "true"]
+      ]
+    },
+    {
+      "id": 88,
+      "HP": 65,
+      "Ataque": 125,
+      "Defensa": 100,
+      "AtaqueEspecial": 55,
+      "DefensaEspecial": 70,
+      "Velocidad": "160 km/h",
+      "Altura": "1.7 m",
+      "Peso": "54.5 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Fuga", "false"],
+        ["Corte Fuerte", "true"]
+      ]
+    },
+    {
+      "id": 89,
+      "HP": 80,
+      "Ataque": 85,
+      "Defensa": 95,
+      "AtaqueEspecial": 30,
+      "DefensaEspecial": 30,
+      "Velocidad": "45 km/h",
+      "Altura": "1.2 m",
+      "Peso": "36.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Fuga", "false"],
+        ["Corte Fuerte", "true"]
+      ]
+    },
+    {
+      "id": 90,
+      "HP": 160,
+      "Ataque": 110,
+      "Defensa": 65,
+      "AtaqueEspecial": 65,
+      "DefensaEspecial": 110,
+      "Velocidad": "30 km/h",
+      "Altura": "2.0 m",
+      "Peso": "132.5 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Gula", "false"],
+        ["Potencia", "true"]
+      ]
+    },
+    {
+      "id": 91,
+      "HP": 90,
+      "Ataque": 85,
+      "Defensa": 100,
+      "AtaqueEspecial": 95,
+      "DefensaEspecial": 125,
+      "Velocidad": "65 km/h",
+      "Altura": "1.3 m",
+      "Peso": "40.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Velo Arena", "false"],
+        ["Vista Lince", "true"]
+      ]
+    },
+    {
+      "id": 92,
+      "HP": 90,
+      "Ataque": 90,
+      "Defensa": 85,
+      "AtaqueEspecial": 125,
+      "DefensaEspecial": 90,
+      "Velocidad": "55 km/h",
+      "Altura": "1.3 m",
+      "Peso": "44.5 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Velo Arena", "false"],
+        ["Vista Lince", "true"]
+      ]
+    },
+    {
+      "id": 93,
+      "HP": 90,
+      "Ataque": 100,
+      "Defensa": 90,
+      "AtaqueEspecial": 125,
+      "DefensaEspecial": 85,
+      "Velocidad": "60 km/h",
+      "Altura": "1.3 m",
+      "Peso": "46.5 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Velo Arena", "false"],
+        ["Vista Lince", "true"]
+      ]
+    },
+    {
+      "id": 94,
+      "HP": 90,
+      "Ataque": 85,
+      "Defensa": 100,
+      "AtaqueEspecial": 125,
+      "DefensaEspecial": 90,
+      "Velocidad": "65 km/h",
+      "Altura": "1.3 m",
+      "Peso": "43.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Velo Arena", "false"],
+        ["Vista Lince", "true"]
+      ]
+    },
+    {
+      "id": 95,
+      "HP": 25,
+      "Ataque": 35,
+      "Defensa": 70,
+      "AtaqueEspecial": 95,
+      "DefensaEspecial": 55,
+      "Velocidad": "40 km/h",
+      "Altura": "0.4 m",
+      "Peso": "4.0 kg",
+      "Huevo": ["Monstruo", "Agua 1"],
+      "Habilidad": [
+        ["Torrente", "false"],
+        ["Potencia", "true"]
+      ]
+    },
+    {
+      "id": 96,
+      "HP": 50,
+      "Ataque": 60,
+      "Defensa": 95,
+      "AtaqueEspecial": 120,
+      "DefensaEspecial": 70,
+      "Velocidad": "80 km/h",
+      "Altura": "1.0 m",
+      "Peso": "20.0 kg",
+      "Huevo": ["Monstruo", "Agua 1"],
+      "Habilidad": [
+        ["Torrente", "false"],
+        ["Potencia", "true"]
+      ]
+    },
+    {
+      "id": 97,
+      "HP": 80,
+      "Ataque": 110,
+      "Defensa": 130,
+      "AtaqueEspecial": 160,
+      "DefensaEspecial": 80,
+      "Velocidad": "121 km/h",
+      "Altura": "1.7 m",
+      "Peso": "95.0 kg",
+      "Huevo": ["Monstruo", "Agua 1"],
+      "Habilidad": [
+        ["Torrente", "false"],
+        ["Potencia", "true"]
+      ]
+    },
+    {
+      "id": 98,
+      "HP": 50,
+      "Ataque": 75,
+      "Defensa": 35,
+      "AtaqueEspecial": 70,
+      "DefensaEspecial": 30,
+      "Velocidad": "40 km/h",
+      "Altura": "0.4 m",
+      "Peso": "5.4 kg",
+      "Huevo": ["Monstruo", "Agua 1"],
+      "Habilidad": [
+        ["Espesura", "false"],
+        ["Clorofila", "true"]
+      ]
+    },
+    {
+      "id": 99,
+      "HP": 80,
+      "Ataque": 105,
+      "Defensa": 65,
+      "AtaqueEspecial": 100,
+      "DefensaEspecial": 70,
+      "Velocidad": "60 km/h",
+      "Altura": "1.2 m",
+      "Peso": "7.0 kg",
+      "Huevo": ["Monstruo", "Agua 1"],
+      "Habilidad": [
+        ["Espesura", "false"],
+        ["Clorofila", "true"]
+      ]
+    },
+    {
+      "id": 100,
+      "HP": 160,
+      "Ataque": 110,
+      "Defensa": 65,
+      "AtaqueEspecial": 65,
+      "DefensaEspecial": 110,
+      "Velocidad": "30 km/h",
+      "Altura": "2.0 m",
+      "Peso": "132.5 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Gula", "false"],
+        ["Potencia", "true"]
+      ]
+    },
+    {
+      "id": 101,
+      "HP": 30,
+      "Ataque": 45,
+      "Defensa": 55,
+      "AtaqueEspecial": 70,
+      "DefensaEspecial": 55,
+      "Velocidad": "85 km/h",
+      "Altura": "0.4 m",
+      "Peso": "9.9 kg",
+      "Huevo": ["Bicho"],
+      "Habilidad": [
+        ["Polvo Escudo", "false"]
+      ]
+    },
+    {
+      "id": 102,
+      "HP": 60,
+      "Ataque": 75,
+      "Defensa": 85,
+      "AtaqueEspecial": 100,
+      "DefensaEspecial": 85,
+      "Velocidad": "115 km/h",
+      "Altura": "1.1 m",
+      "Peso": "19.9 kg",
+      "Huevo": ["Bicho"],
+      "Habilidad": [
+        ["Polvo Escudo", "false"]
+      ]
+    },
+    {
+      "id": 103,
+      "HP": 40,
+      "Ataque": 45,
+      "Defensa": 65,
+      "AtaqueEspecial": 100,
+      "DefensaEspecial": 120,
+      "Velocidad": "30 km/h",
+      "Altura": "1.0 m",
+      "Peso": "12.5 kg",
+      "Huevo": ["Bicho"],
+      "Habilidad": [
+        ["Polvo Escudo", "false"]
+      ]
+    },
+    {
+      "id": 104,
+      "HP": 70,
+      "Ataque": 110,
+      "Defensa": 80,
+      "AtaqueEspecial": 55,
+      "DefensaEspecial": 80,
+      "Velocidad": "105 km/h",
+      "Altura": "1.4 m",
+      "Peso": "20.0 kg",
+      "Huevo": ["Bicho"],
+      "Habilidad": [
+        ["Robustez", "false"]
+      ]
+    },
+    {
+      "id": 105,
+      "HP": 80,
+      "Ataque": 105,
+      "Defensa": 65,
+      "AtaqueEspecial": 100,
+      "DefensaEspecial": 70,
+      "Velocidad": "100 km/h",
+      "Altura": "1.0 m",
+      "Peso": "45.0 kg",
+      "Huevo": ["Bicho"],
+      "Habilidad": [
+        ["Robustez", "false"]
+      ]
+    },
+    {
+      "id": 106,
+      "HP": 160,
+      "Ataque": 110,
+      "Defensa": 65,
+      "AtaqueEspecial": 65,
+      "DefensaEspecial": 110,
+      "Velocidad": "30 km/h",
+      "Altura": "2.0 m",
+      "Peso": "132.5 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Gula", "false"],
+        ["Potencia", "true"]
+      ]
+    },
+    {
+      "id": 107,
+      "HP": 30,
+      "Ataque": 45,
+      "Defensa": 55,
+      "AtaqueEspecial": 70,
+      "DefensaEspecial": 55,
+      "Velocidad": "85 km/h",
+      "Altura": "0.4 m",
+      "Peso": "9.9 kg",
+      "Huevo": ["Bicho"],
+      "Habilidad": [
+        ["Polvo Escudo", "false"]
+      ]
+    },
+    {
+      "id": 108,
+      "HP": 60,
+      "Ataque": 75,
+      "Defensa": 85,
+      "AtaqueEspecial": 100,
+      "DefensaEspecial": 85,
+      "Velocidad": "115 km/h",
+      "Altura": "1.1 m",
+      "Peso": "19.9 kg",
+      "Huevo": ["Bicho"],
+      "Habilidad": [
+        ["Polvo Escudo", "false"]
+      ]
+    },
+    {
+      "id": 109,
+      "HP": 40,
+      "Ataque": 45,
+      "Defensa": 65,
+      "AtaqueEspecial": 100,
+      "DefensaEspecial": 120,
+      "Velocidad": "30 km/h",
+      "Altura": "1.0 m",
+      "Peso": "12.5 kg",
+      "Huevo": ["Bicho"],
+      "Habilidad": [
+        ["Polvo Escudo", "false"]
+      ]
+    },
+    {
+      "id": 110,
+      "HP": 70,
+      "Ataque": 110,
+      "Defensa": 80,
+      "AtaqueEspecial": 55,
+      "DefensaEspecial": 80,
+      "Velocidad": "105 km/h",
+      "Altura": "1.4 m",
+      "Peso": "20.0 kg",
+      "Huevo": ["Bicho"],
+      "Habilidad": [
+        ["Robustez", "false"]
+      ]
+    },
+    {
+      "id": 111,
+      "HP": 80,
+      "Ataque": 105,
+      "Defensa": 65,
+      "AtaqueEspecial": 100,
+      "DefensaEspecial": 70,
+      "Velocidad": "100 km/h",
+      "Altura": "1.0 m",
+      "Peso": "45.0 kg",
+      "Huevo": ["Bicho"],
+      "Habilidad": [
+        ["Robustez", "false"]
+      ]
+    },
+    {
+      "id": 112,
+      "HP": 160,
+      "Ataque": 110,
+      "Defensa": 65,
+      "AtaqueEspecial": 65,
+      "DefensaEspecial": 110,
+      "Velocidad": "30 km/h",
+      "Altura": "2.0 m",
+      "Peso": "132.5 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Gula", "false"],
+        ["Potencia", "true"]
+      ]
+    },
+    {
+      "id": 113,
+      "HP": 30,
+      "Ataque": 45,
+      "Defensa": 55,
+      "AtaqueEspecial": 70,
+      "DefensaEspecial": 55,
+      "Velocidad": "85 km/h",
+      "Altura": "0.4 m",
+      "Peso": "9.9 kg",
+      "Huevo": ["Bicho"],
+      "Habilidad": [
+        ["Polvo Escudo", "false"]
+      ]
+    },
+    {
+      "id": 114,
+      "HP": 60,
+      "Ataque": 75,
+      "Defensa": 85,
+      "AtaqueEspecial": 100,
+      "DefensaEspecial": 85,
+      "Velocidad": "115 km/h",
+      "Altura": "1.1 m",
+      "Peso": "19.9 kg",
+      "Huevo": ["Bicho"],
+      "Habilidad": [
+        ["Polvo Escudo", "false"]
+      ]
+    },
+    {
+      "id": 115,
+      "HP": 40,
+      "Ataque": 45,
+      "Defensa": 65,
+      "AtaqueEspecial": 100,
+      "DefensaEspecial": 120,
+      "Velocidad": "30 km/h",
+      "Altura": "1.0 m",
+      "Peso": "12.5 kg",
+      "Huevo": ["Bicho"],
+      "Habilidad": [
+        ["Polvo Escudo", "false"]
+      ]
+    },
+    {
+      "id": 116,
+      "HP": 70,
+      "Ataque": 110,
+      "Defensa": 80,
+      "AtaqueEspecial": 55,
+      "DefensaEspecial": 80,
+      "Velocidad": "105 km/h",
+      "Altura": "1.4 m",
+      "Peso": "20.0 kg",
+      "Huevo": ["Bicho"],
+      "Habilidad": [
+        ["Robustez", "false"]
+      ]
+    },
+    {
+      "id": 117,
+      "HP": 80,
+      "Ataque": 105,
+      "Defensa": 65,
+      "AtaqueEspecial": 100,
+      "DefensaEspecial": 70,
+      "Velocidad": "100 km/h",
+      "Altura": "1.0 m",
+      "Peso": "45.0 kg",
+      "Huevo": ["Bicho"],
+      "Habilidad": [
+        ["Robustez", "false"]
+      ]
+    },
+    {
+      "id": 118,
+      "HP": 45,
+      "Ataque": 50,
+      "Defensa": 55,
+      "AtaqueEspecial": 75,
+      "DefensaEspecial": 65,
+      "Velocidad": "120 km/h",
+      "Altura": "0.6 m",
+      "Peso": "15.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Polvo Escudo", "false"],
+        ["Armadura Batalla", "true"]
+      ]
+    },
+    {
+      "id": 119,
+      "HP": 80,
+      "Ataque": 85,
+      "Defensa": 95,
+      "AtaqueEspecial": 125,
+      "DefensaEspecial": 115,
+      "Velocidad": "80 km/h",
+      "Altura": "1.3 m",
+      "Peso": "54.5 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Polvo Escudo", "false"],
+        ["Armadura Batalla", "true"]
+      ]
+    },
+    {
+      "id": 120,
+      "HP": 20,
+      "Ataque": 25,
+      "Defensa": 45,
+      "AtaqueEspecial": 70,
+      "DefensaEspecial": 90,
+      "Velocidad": "40 km/h",
+      "Altura": "0.8 m",
+      "Peso": "12.4 kg",
+      "Huevo": ["Agua 1", "Campo"],
+      "Habilidad": [
+        ["Absorber", "false"],
+        ["Antídoto", "true"]
+      ]
+    },
+    {
+      "id": 121,
+      "HP": 95,
+      "Ataque": 105,
+      "Defensa": 75,
+      "AtaqueEspecial": 85,
+      "DefensaEspecial": 85,
+      "Velocidad": "100 km/h",
+      "Altura": "1.3 m",
+      "Peso": "36.5 kg",
+      "Huevo": ["Agua 1", "Campo"],
+      "Habilidad": [
+        ["Absorber", "false"],
+        ["Antídoto", "true"]
+      ]
+    },
+    {
+      "id": 122,
+      "HP": 25,
+      "Ataque": 30,
+      "Defensa": 15,
+      "AtaqueEspecial": 85,
+      "DefensaEspecial": 65,
+      "Velocidad": "40 km/h",
+      "Altura": "0.5 m",
+      "Peso": "27.3 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Estruendo", "false"],
+        ["Vista Lince", "true"]
+      ]
+    },
+    {
+      "id": 123,
+      "HP": 50,
+      "Ataque": 75,
+      "Defensa": 45,
+      "AtaqueEspecial": 115,
+      "DefensaEspecial": 95,
+      "Velocidad": "100 km/h",
+      "Altura": "1.2 m",
+      "Peso": "32.4 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Estruendo", "false"],
+        ["Vista Lince", "true"]
+      ]
+    },
+    {
+      "id": 124,
+      "HP": 75,
+      "Ataque": 100,
+      "Defensa": 95,
+      "AtaqueEspecial": 40,
+      "DefensaEspecial": 70,
+      "Velocidad": "140 km/h",
+      "Altura": "1.4 m",
+      "Peso": "39.2 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Cura Natural", "false"],
+        ["Nado Rápido", "true"]
+      ]
+    },
+    {
+      "id": 125,
+      "HP": 20,
+      "Ataque": 10,
+      "Defensa": 55,
+      "AtaqueEspecial": 15,
+      "DefensaEspecial": 20,
+      "Velocidad": "90 km/h",
+      "Altura": "0.6 m",
+      "Peso": "12.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Electricidad Estática", "false"],
+        ["Pararrayos", "true"]
+      ]
+    },
+    {
+      "id": 126,
+      "HP": 95,
+      "Ataque": 125,
+      "Defensa": 79,
+      "AtaqueEspecial": 60,
+      "DefensaEspecial": 100,
+      "Velocidad": "110 km/h",
+      "Altura": "1.1 m",
+      "Peso": "30.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Electricidad Estática", "false"],
+        ["Pararrayos", "true"]
+      ]
+    },
+    {
+      "id": 127,
+      "HP": 65,
+      "Ataque": 155,
+      "Defensa": 120,
+      "AtaqueEspecial": 65,
+      "DefensaEspecial": 90,
+      "Velocidad": "105 km/h",
+      "Altura": "1.5 m",
+      "Peso": "44.5 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Electricidad Estática", "false"],
+        ["Pararrayos", "true"]
+      ]
+    },
+    {
+      "id": 128,
+      "HP": 40,
+      "Ataque": 45,
+      "Defensa": 65,
+      "AtaqueEspecial": 100,
+      "DefensaEspecial": 120,
+      "Velocidad": "30 km/h",
+      "Altura": "1.0 m",
+      "Peso": "12.5 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Polvo Escudo", "false"]
+      ]
+    },
+    {
+      "id": 129,
+      "HP": 70,
+      "Ataque": 110,
+      "Defensa": 80,
+      "AtaqueEspecial": 55,
+      "DefensaEspecial": 80,
+      "Velocidad": "105 km/h",
+      "Altura": "1.4 m",
+      "Peso": "20.0 kg",
+      "Huevo": ["Bicho"],
+      "Habilidad": [
+        ["Robustez", "false"]
+      ]
+    },
+    {
+      "id": 130,
+      "HP": 80,
+      "Ataque": 105,
+      "Defensa": 65,
+      "AtaqueEspecial": 100,
+      "DefensaEspecial": 70,
+      "Velocidad": "100 km/h",
+      "Altura": "1.0 m",
+      "Peso": "45.0 kg",
+      "Huevo": ["Bicho"],
+      "Habilidad": [
+        ["Robustez", "false"]
+      ]
+    },
+    {
+      "id": 131,
+      "HP": 160,
+      "Ataque": 110,
+      "Defensa": 65,
+      "AtaqueEspecial": 65,
+      "DefensaEspecial": 110,
+      "Velocidad": "30 km/h",
+      "Altura": "2.0 m",
+      "Peso": "132.5 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Gula", "false"],
+        ["Potencia", "true"]
+      ]
+    },
+    {
+      "id": 132,
+      "HP": 25,
+      "Ataque": 20,
+      "Defensa": 15,
+      "AtaqueEspecial": 105,
+      "DefensaEspecial": 55,
+      "Velocidad": "45 km/h",
+      "Altura": "0.3 m",
+      "Peso": "2.5 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Espesura", "false"],
+        ["Especialista", "true"]
+      ]
+    },
+    {
+      "id": 133,
+      "HP": 50,
+      "Ataque": 35,
+      "Defensa": 30,
+      "AtaqueEspecial": 100,
+      "DefensaEspecial": 35,
+      "Velocidad": "55 km/h",
+      "Altura": "0.3 m",
+      "Peso": "10.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Espesura", "false"],
+        ["Especialista", "true"]
+      ]
+    },
+    {
+      "id": 134,
+      "HP": 130,
+      "Ataque": 60,
+      "Defensa": 60,
+      "AtaqueEspecial": 110,
+      "DefensaEspecial": 95,
+      "Velocidad": "65 km/h",
+      "Altura": "1.0 m",
+      "Peso": "29.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Espesura", "false"],
+        ["Especialista", "true"]
+      ]
+    },
+    {
+      "id": 135,
+      "HP": 160,
+      "Ataque": 60,
+      "Defensa": 60,
+      "AtaqueEspecial": 110,
+      "DefensaEspecial": 95,
+      "Velocidad": "65 km/h",
+      "Altura": "1.0 m",
+      "Peso": "29.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Espesura", "false"],
+        ["Especialista", "true"]
+      ]
+    },
+    {
+      "id": 136,
+      "HP": 55,
+      "Ataque": 84,
+      "Defensa": 105,
+      "AtaqueEspecial": 114,
+      "DefensaEspecial": 75,
+      "Velocidad": "100 km/h",
+      "Altura": "1.3 m",
+      "Peso": "36.5 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Estruendo", "false"],
+        ["Despiste", "true"]
+      ]
+    },
+    {
+      "id": 137,
+      "HP": 130,
+      "Ataque": 120,
+      "Defensa": 120,
+      "AtaqueEspecial": 100,
+      "DefensaEspecial": 120,
+      "Velocidad": "50 km/h",
+      "Altura": "2.0 m",
+      "Peso": "120.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Velo Arena", "false"]
+      ]
+    },
+    {
+      "id": 138,
+      "HP": 20,
+      "Ataque": 10,
+      "Defensa": 55,
+      "AtaqueEspecial": 15,
+      "DefensaEspecial": 20,
+      "Velocidad": "90 km/h",
+      "Altura": "0.6 m",
+      "Peso": "12.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Electricidad Estática", "false"],
+        ["Pararrayos", "true"]
+      ]
+    },
+    {
+      "id": 139,
+      "HP": 95,
+      "Ataque": 125,
+      "Defensa": 79,
+      "AtaqueEspecial": 60,
+      "DefensaEspecial": 100,
+      "Velocidad": "110 km/h",
+      "Altura": "1.1 m",
+      "Peso": "30.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Electricidad Estática", "false"],
+        ["Pararrayos", "true"]
+      ]
+    },
+    {
+      "id": 140,
+      "HP": 65,
+      "Ataque": 155,
+      "Defensa": 120,
+      "AtaqueEspecial": 65,
+      "DefensaEspecial": 90,
+      "Velocidad": "105 km/h",
+      "Altura": "1.5 m",
+      "Peso": "44.5 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Electricidad Estática", "false"],
+        ["Pararrayos", "true"]
+      ]
+    },
+    {
+      "id": 141,
+      "HP": 160,
+      "Ataque": 60,
+      "Defensa": 60,
+      "AtaqueEspecial": 110,
+      "DefensaEspecial": 95,
+      "Velocidad": "65 km/h",
+      "Altura": "1.0 m",
+      "Peso": "29.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Espesura", "false"],
+        ["Especialista", "true"]
+      ]
+    },
+    {
+      "id": 142,
+      "HP": 160,
+      "Ataque": 60,
+      "Defensa": 60,
+      "AtaqueEspecial": 110,
+      "DefensaEspecial": 95,
+      "Velocidad": "65 km/h",
+      "Altura": "1.0 m",
+      "Peso": "29.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Espesura", "false"],
+        ["Especialista", "true"]
+      ]
+    },
+    {
+      "id": 143,
+      "HP": 55,
+      "Ataque": 84,
+      "Defensa": 105,
+      "AtaqueEspecial": 114,
+      "DefensaEspecial": 75,
+      "Velocidad": "100 km/h",
+      "Altura": "1.3 m",
+      "Peso": "36.5 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Estruendo", "false"],
+        ["Despiste", "true"]
+      ]
+    },
+    {
+      "id": 144,
+      "HP": 130,
+      "Ataque": 120,
+      "Defensa": 120,
+      "AtaqueEspecial": 100,
+      "DefensaEspecial": 120,
+      "Velocidad": "50 km/h",
+      "Altura": "2.0 m",
+      "Peso": "120.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Velo Arena", "false"]
+      ]
+    },
+    {
+      "id": 145,
+      "HP": 20,
+      "Ataque": 10,
+      "Defensa": 55,
+      "AtaqueEspecial": 15,
+      "DefensaEspecial": 20,
+      "Velocidad": "90 km/h",
+      "Altura": "0.6 m",
+      "Peso": "12.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Electricidad Estática", "false"],
+        ["Pararrayos", "true"]
+      ]
+    },
+    {
+      "id": 146,
+      "HP": 95,
+      "Ataque": 125,
+      "Defensa": 79,
+      "AtaqueEspecial": 60,
+      "DefensaEspecial": 100,
+      "Velocidad": "110 km/h",
+      "Altura": "1.1 m",
+      "Peso": "30.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Electricidad Estática", "false"],
+        ["Pararrayos", "true"]
+      ]
+    },
+    {
+      "id": 147,
+      "HP": 65,
+      "Ataque": 155,
+      "Defensa": 120,
+      "AtaqueEspecial": 65,
+      "DefensaEspecial": 90,
+      "Velocidad": "105 km/h",
+      "Altura": "1.5 m",
+      "Peso": "44.5 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Electricidad Estática", "false"],
+        ["Pararrayos", "true"]
+      ]
+    },
+    {
+      "id": 148,
+      "HP": 160,
+      "Ataque": 60,
+      "Defensa": 60,
+      "AtaqueEspecial": 110,
+      "DefensaEspecial": 95,
+      "Velocidad": "65 km/h",
+      "Altura": "1.0 m",
+      "Peso": "29.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Espesura", "false"],
+        ["Especialista", "true"]
+      ]
+    },
+    {
+      "id": 149,
+      "HP": 160,
+      "Ataque": 60,
+      "Defensa": 60,
+      "AtaqueEspecial": 110,
+      "DefensaEspecial": 95,
+      "Velocidad": "65 km/h",
+      "Altura": "1.0 m",
+      "Peso": "29.0 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Espesura", "false"],
+        ["Especialista", "true"]
+      ]
+    },
+    {
+      "id": 150,
+      "HP": 55,
+      "Ataque": 84,
+      "Defensa": 105,
+      "AtaqueEspecial": 114,
+      "DefensaEspecial": 75,
+      "Velocidad": "100 km/h",
+      "Altura": "1.3 m",
+      "Peso": "36.5 kg",
+      "Huevo": ["Campo"],
+      "Habilidad": [
+        ["Estruendo", "false"],
+        ["Despiste", "true"]
+      ]
+    },
+    {
+      "id": 151,
+      "HP": 130,
+      "Ataque": 120,
+      "Defensa": 120,
+      "AtaqueEspecial": 100,
+      "DefensaEspecial": 120,
+      "Velocidad": "50 km/h",
+      "Altura": "2.0 m",
+      "Peso": "120.0 kg",
+      "Huevo": ["Desconocido"],
+      "Habilidad": [
+        ["Velo Arena", "false"]
+      ]
+    }
+  ]
+  
+}

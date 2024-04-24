@@ -1,0 +1,56 @@
+
+<!--
+<div >
+
+    <div class="container text-center mt-2 bg-dark text-light">
+      <h1>Pokedex</h1>
+    </div>
+    
+  
+  <div  class="row mt-5">
+    <div class="card shadow mb-3 container bg-dark text-light" style="max-width: 540px;" *ngFor="let pokemon of pokemones">
+        <div class="row no-gutters" >
+          <div (click)="irAlDetalle(pokemon)" class="col-md-4 d-flex justify-content-center align-items-center custom-cursor-pointer ">
+            <img src="{{pokemon.imagen}}" class="card-img" alt="...">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h5 class="card-title custom-cursor-pointer text-light" (click)="irAlDetalle(pokemon)">{{pokemon.id}}. {{pokemon.nombre}}</h5>
+              <p class="card-text text-light">{{pokemon.descripcion}}</p>
+              <p class="card-text text-light">Tipo: {{pokemon.tipo}}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  </div>
+    
+
+
+  -->
+  <div  >
+    
+    <div  class="container text-center mt-2">
+      <h1>Pokedex</h1>
+    </div>
+  
+  
+    <div class="row mt-5">
+      <div class="card  shadow mb-3 container" style="max-width: 540px;" *ngFor="let pokemon of pokemones">
+        <div class="row no-gutters" >
+          <div (click)="irAlDetalle(pokemon)" class="col-md-4 d-flex justify-content-center align-items-center custom-cursor-pointer ">
+            <img src="{{pokemon.imagen}}" class="card-img" alt="...">
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h5 class="card-title custom-cursor-pointer" (click)="irAlDetalle(pokemon)">{{pokemon.id}}. {{pokemon.nombre}}</h5>
+              <p class="card-text">{{pokemon.descripcion}}</p>
+              <p class="card-text">Tipo: {{pokemon.tipo}}</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+  </div>
